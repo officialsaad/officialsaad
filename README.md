@@ -16,6 +16,15 @@
 - 📫 How to reach me **official.saadahmad@gmail.com**
 
 - ⚡ **I am introvert person**
+  <br>
+  <br>
+
+<h2 align="left"><i>Connect with my other Profiles</i></h2>
+
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/saad-ahmad-766247254/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="https://www.linkedin.com/in/saad-ahmad-766247254/" height="25" /></a>
+<a href="https://kaggle.com/kagglecomsaad" target="_blank"><img align="center" src="https://img.shields.io/badge/Kaggle-035a7d.svg?style=for-the-badge&logo=Kaggle&logoColor=white" alt="https://kaggle.com/kagglecomsaad" height="25" /></a>
+</p><br>
 
 <h2 align="left"><i>TECHINAL SKILLS</i></h2>
 
