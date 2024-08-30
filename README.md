@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **Flutter**
 
-- 💬 Ask me about **Convolution Neural Network, Data Augmentation, Keras, PHP, Ajax, Django Rest Framework**
+- 💬 Ask me about **Convolution Neural Network, Data Augmentation, Keras, PHP, Ajax**
 
 - 📫 How to reach me **official.saadahmad@gmail.com**
 
