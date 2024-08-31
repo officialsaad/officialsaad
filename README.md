@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **official.saadahmad@gmail.com**
 
-- ⚡ **I am introvert person**
+
    <br>
   <br>
 
